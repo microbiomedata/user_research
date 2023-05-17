@@ -13,7 +13,7 @@ Product (NMDC EDGE, Submission Portal, Data Portal, API, Other: __)
 
 Identify level of priority for testing: Low (nice to have but not pressing), medium, high, very high (Required information to move forward with product) 
 
-Please refer potential interview candidates here (User Research Referrals from NMDC Team) 
+Please refer potential interview candidates on the User Research Referrals from NMDC Team sheet at https://docs.google.com/spreadsheets/d/1YNUOFFsagIGJEx2ru4_FpEroInhnEl5MCQmYymP6CTg/edit#gid=0
 
 Identify which team members should be looped in for script/task review 
 
